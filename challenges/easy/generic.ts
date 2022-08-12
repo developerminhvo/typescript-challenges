@@ -50,9 +50,6 @@ const cat = {
 
 const catService = new CatService(cat);
 
-// dogService.findOne().bark();
-// catService.findOne().moew();
-
 
 //-----------------------------
 
